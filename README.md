@@ -2,11 +2,16 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estado-Completado-success?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/Mantenimiento-Activo-blue?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Versión-1.0.0-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Licencia-MIT-purple?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Licencia-MIT-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-326690?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ⭐ *Este es mi repositorio oficial de una implementación práctica en Python utilizando **TensorFlow** y **Keras**. En este proyecto, entrené un modelo de aprendizaje automático enfocado en la clasificación de imágenes del popular conjunto de datos **CIFAR-10**.* 🎯
