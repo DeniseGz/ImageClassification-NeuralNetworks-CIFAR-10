@@ -59,3 +59,5 @@ Desarrollé el script en un entorno de **Google Colab**, haciendo uso de las sig
 4. **⚡ Preprocesamiento y Normalización:** Escalado de los valores de los píxeles dividiendo entre `255.0` para acotar los datos en un rango flotante de `0` a `1`, optimizando así el rendimiento del entrenamiento del modelo.
 5. **🏷️ Mapeo de Clases:** Definición de las etiquetas textuales correspondientes a los índices numéricos de las clases (del `0` al `9`).
 6. **📉 Visualización:** Implementación de una función auxiliar (`mostrar()`) basada en `matplotlib` para graficar una cuadrícula con las primeras imágenes del entrenamiento y sus respectivas etiquetas.
+
+*Designed and developed by DeniseGz © 2026*
